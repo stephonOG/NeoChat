@@ -84,16 +84,5 @@ python3 client.py
 - **Encryption:** Implement **SSL/TLS** for secure communication.
 - **Mobile Compatibility:** Extend to mobile platforms .
 
----
-
-## 💡 **Contributing**
-1. **Fork the repository**
-2. **Create a new branch** (`feature/new-feature`)
-3. **Commit your changes** (`git commit -m 'Add new feature'`)
-4. **Push to the branch** (`git push origin feature/new-feature`)
-5. **Create a Pull Request**
-
----
-
 ## 📄 **License**
 This project is licensed under the **MIT License**. Feel free to use and modify the code as needed.
