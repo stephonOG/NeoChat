@@ -1,11 +1,11 @@
 # NeoChat - Real-Time TCP Chat Application
 
-## 📖 **Project Overview**
+##**Project Overview**
 **NeoChat** is a real-time chat application built using **Python** with a **TCP server-client architecture**. It allows multiple clients to connect to a server, exchange messages, and supports **user authentication** (registration and login). The application uses **SQLite** for **user credential storage**, **bcrypt** for **password hashing**, and **socket programming** for **network communication**.
 
 ---
 
-## 🚀 **Key Features**
+## **Key Features**
 - **Real-Time Messaging:** Supports broadcasting messages to all connected clients.
 - **User Authentication:**
   - **Registration:** Securely stores usernames and hashed passwords in an SQLite database.
@@ -16,14 +16,14 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+##**Tech Stack**
 - **Programming Language:** Python
 - **Libraries:** `socket`, `threading`, `sqlite3`, `bcrypt`, `getpass`
 - **Database:** SQLite
 
 ---
 
-## 📂 **Project Structure**
+##**Project Structure**
 ```
 NeoChat/
 │
@@ -35,7 +35,7 @@ NeoChat/
 
 ---
 
-## 🧠 **How It Works**
+##**How It Works**
 1. **Server Initialization:** Starts listening for incoming client connections.
 2. **Client Connection:** Connects to the server using a specified IP and port.
 3. **User Registration/Login:**
